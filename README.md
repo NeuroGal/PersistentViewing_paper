@@ -1,5 +1,5 @@
 # PersistentViewing_paper
-Matlab code for analysis and visualization for: Vishne, Gerber, Knight and Deouell, Cell Reports 2023 “Distinct Ventral Stream and Prefrontal Cortex Representational Dynamics during Sustained Conscious Visual Perception” (biorxiv DOI, to be updated when formally published): https://doi.org/10.1101/2022.08.02.502469
+Matlab code for analysis and visualization for: Vishne, Gerber, Knight and Deouell, Cell Reports 2023 “Distinct Ventral Stream and Prefrontal Cortex Representational Dynamics during Sustained Conscious Visual Perception”: https://doi.org/10.1016/j.celrep.2023.112752
 
 Please cite if you use this! 🙏
 
