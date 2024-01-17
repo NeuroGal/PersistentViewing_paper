@@ -9,8 +9,8 @@ The paper has five sections, using four distinct analysis approaches, accordingl
 1. Univariate analyses - results section 1: Figure 1 and Supplementary Figure 1
 2. Multivariate state-space analyses - results section 2: Figure 2 and Supplementary Figures 2-3
 3. Decoding category information - containing two parts:
- 1. Results section 3, focusing on long stimuli durations (more than 900ms): Figure 3 and Supplementary Figures 4-6
- 2. Results section 4, comparing decoding in different durations: Figure 4 and Supplementary Figure 7
+   1. Results section 3, focusing on long stimuli durations (more than 900ms): Figure 3 and Supplementary Figures 4-6
+   2. Results section 4, comparing decoding in different durations: Figure 4 and Supplementary Figure 7
 4. Single-exemplar analyses - results section 5: Figure 5 and Supplementary Figures 8-11.
 
 For each section the code is divided into a X_calc.m script and X_fig.m script. The first is used to run all analyses and save the results, and the second loads this information and plots the Figures in the manuscript. In some folders there are additional functions used for visualization or analysis specific to those sections.
